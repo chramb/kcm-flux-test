@@ -1,0 +1,4 @@
+---
+resources:
+  - gitops.yaml
+  - flux-system
